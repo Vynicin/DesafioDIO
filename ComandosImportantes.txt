@@ -1,0 +1,14 @@
+--Clonar repositório do Github para o pc
+git clone 'LINK'
+
+--Verificar o Status do repositório
+git status
+
+--Adicionar arquivos
+git add
+
+--Comitar a versão
+git commit -m"Descrição"
+
+--Enviar para o Github
+git push
